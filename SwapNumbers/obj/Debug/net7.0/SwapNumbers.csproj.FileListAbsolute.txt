@@ -1,0 +1,15 @@
+/Users/aaaa/Desktop/C#/C-/TryParse/SwapNumbers/bin/Debug/net7.0/SwapNumbers
+/Users/aaaa/Desktop/C#/C-/TryParse/SwapNumbers/bin/Debug/net7.0/SwapNumbers.deps.json
+/Users/aaaa/Desktop/C#/C-/TryParse/SwapNumbers/bin/Debug/net7.0/SwapNumbers.runtimeconfig.json
+/Users/aaaa/Desktop/C#/C-/TryParse/SwapNumbers/bin/Debug/net7.0/SwapNumbers.dll
+/Users/aaaa/Desktop/C#/C-/TryParse/SwapNumbers/bin/Debug/net7.0/SwapNumbers.pdb
+/Users/aaaa/Desktop/C#/C-/TryParse/SwapNumbers/obj/Debug/net7.0/SwapNumbers.csproj.AssemblyReference.cache
+/Users/aaaa/Desktop/C#/C-/TryParse/SwapNumbers/obj/Debug/net7.0/SwapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaaa/Desktop/C#/C-/TryParse/SwapNumbers/obj/Debug/net7.0/SwapNumbers.AssemblyInfoInputs.cache
+/Users/aaaa/Desktop/C#/C-/TryParse/SwapNumbers/obj/Debug/net7.0/SwapNumbers.AssemblyInfo.cs
+/Users/aaaa/Desktop/C#/C-/TryParse/SwapNumbers/obj/Debug/net7.0/SwapNumbers.csproj.CoreCompileInputs.cache
+/Users/aaaa/Desktop/C#/C-/TryParse/SwapNumbers/obj/Debug/net7.0/SwapNumbers.dll
+/Users/aaaa/Desktop/C#/C-/TryParse/SwapNumbers/obj/Debug/net7.0/refint/SwapNumbers.dll
+/Users/aaaa/Desktop/C#/C-/TryParse/SwapNumbers/obj/Debug/net7.0/SwapNumbers.pdb
+/Users/aaaa/Desktop/C#/C-/TryParse/SwapNumbers/obj/Debug/net7.0/SwapNumbers.genruntimeconfig.cache
+/Users/aaaa/Desktop/C#/C-/TryParse/SwapNumbers/obj/Debug/net7.0/ref/SwapNumbers.dll

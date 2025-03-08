@@ -1,0 +1,15 @@
+/Users/aaaa/Desktop/C#/C-/TryParse/RealCalculator/bin/Debug/net7.0/RealCalculator
+/Users/aaaa/Desktop/C#/C-/TryParse/RealCalculator/bin/Debug/net7.0/RealCalculator.deps.json
+/Users/aaaa/Desktop/C#/C-/TryParse/RealCalculator/bin/Debug/net7.0/RealCalculator.runtimeconfig.json
+/Users/aaaa/Desktop/C#/C-/TryParse/RealCalculator/bin/Debug/net7.0/RealCalculator.dll
+/Users/aaaa/Desktop/C#/C-/TryParse/RealCalculator/bin/Debug/net7.0/RealCalculator.pdb
+/Users/aaaa/Desktop/C#/C-/TryParse/RealCalculator/obj/Debug/net7.0/RealCalculator.csproj.AssemblyReference.cache
+/Users/aaaa/Desktop/C#/C-/TryParse/RealCalculator/obj/Debug/net7.0/RealCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaaa/Desktop/C#/C-/TryParse/RealCalculator/obj/Debug/net7.0/RealCalculator.AssemblyInfoInputs.cache
+/Users/aaaa/Desktop/C#/C-/TryParse/RealCalculator/obj/Debug/net7.0/RealCalculator.AssemblyInfo.cs
+/Users/aaaa/Desktop/C#/C-/TryParse/RealCalculator/obj/Debug/net7.0/RealCalculator.csproj.CoreCompileInputs.cache
+/Users/aaaa/Desktop/C#/C-/TryParse/RealCalculator/obj/Debug/net7.0/RealCalculator.dll
+/Users/aaaa/Desktop/C#/C-/TryParse/RealCalculator/obj/Debug/net7.0/refint/RealCalculator.dll
+/Users/aaaa/Desktop/C#/C-/TryParse/RealCalculator/obj/Debug/net7.0/RealCalculator.pdb
+/Users/aaaa/Desktop/C#/C-/TryParse/RealCalculator/obj/Debug/net7.0/RealCalculator.genruntimeconfig.cache
+/Users/aaaa/Desktop/C#/C-/TryParse/RealCalculator/obj/Debug/net7.0/ref/RealCalculator.dll

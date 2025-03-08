@@ -1,0 +1,15 @@
+/Users/aaaa/Desktop/C#/C-/TryParse/AverageNumber/bin/Debug/net7.0/AverageNumber
+/Users/aaaa/Desktop/C#/C-/TryParse/AverageNumber/bin/Debug/net7.0/AverageNumber.deps.json
+/Users/aaaa/Desktop/C#/C-/TryParse/AverageNumber/bin/Debug/net7.0/AverageNumber.runtimeconfig.json
+/Users/aaaa/Desktop/C#/C-/TryParse/AverageNumber/bin/Debug/net7.0/AverageNumber.dll
+/Users/aaaa/Desktop/C#/C-/TryParse/AverageNumber/bin/Debug/net7.0/AverageNumber.pdb
+/Users/aaaa/Desktop/C#/C-/TryParse/AverageNumber/obj/Debug/net7.0/AverageNumber.csproj.AssemblyReference.cache
+/Users/aaaa/Desktop/C#/C-/TryParse/AverageNumber/obj/Debug/net7.0/AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaaa/Desktop/C#/C-/TryParse/AverageNumber/obj/Debug/net7.0/AverageNumber.AssemblyInfoInputs.cache
+/Users/aaaa/Desktop/C#/C-/TryParse/AverageNumber/obj/Debug/net7.0/AverageNumber.AssemblyInfo.cs
+/Users/aaaa/Desktop/C#/C-/TryParse/AverageNumber/obj/Debug/net7.0/AverageNumber.csproj.CoreCompileInputs.cache
+/Users/aaaa/Desktop/C#/C-/TryParse/AverageNumber/obj/Debug/net7.0/AverageNumber.dll
+/Users/aaaa/Desktop/C#/C-/TryParse/AverageNumber/obj/Debug/net7.0/refint/AverageNumber.dll
+/Users/aaaa/Desktop/C#/C-/TryParse/AverageNumber/obj/Debug/net7.0/AverageNumber.pdb
+/Users/aaaa/Desktop/C#/C-/TryParse/AverageNumber/obj/Debug/net7.0/AverageNumber.genruntimeconfig.cache
+/Users/aaaa/Desktop/C#/C-/TryParse/AverageNumber/obj/Debug/net7.0/ref/AverageNumber.dll
