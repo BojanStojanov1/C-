@@ -1,0 +1,15 @@
+/Users/aaaa/Projects/arrays/SumOfEven/obj/Debug/net7.0/SumOfEven.csproj.AssemblyReference.cache
+/Users/aaaa/Projects/arrays/SumOfEven/obj/Debug/net7.0/SumOfEven.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaaa/Projects/arrays/SumOfEven/obj/Debug/net7.0/SumOfEven.AssemblyInfoInputs.cache
+/Users/aaaa/Projects/arrays/SumOfEven/obj/Debug/net7.0/SumOfEven.AssemblyInfo.cs
+/Users/aaaa/Projects/arrays/SumOfEven/obj/Debug/net7.0/SumOfEven.csproj.CoreCompileInputs.cache
+/Users/aaaa/Projects/arrays/SumOfEven/bin/Debug/net7.0/SumOfEven
+/Users/aaaa/Projects/arrays/SumOfEven/bin/Debug/net7.0/SumOfEven.deps.json
+/Users/aaaa/Projects/arrays/SumOfEven/bin/Debug/net7.0/SumOfEven.runtimeconfig.json
+/Users/aaaa/Projects/arrays/SumOfEven/bin/Debug/net7.0/SumOfEven.dll
+/Users/aaaa/Projects/arrays/SumOfEven/bin/Debug/net7.0/SumOfEven.pdb
+/Users/aaaa/Projects/arrays/SumOfEven/obj/Debug/net7.0/SumOfEven.dll
+/Users/aaaa/Projects/arrays/SumOfEven/obj/Debug/net7.0/refint/SumOfEven.dll
+/Users/aaaa/Projects/arrays/SumOfEven/obj/Debug/net7.0/SumOfEven.pdb
+/Users/aaaa/Projects/arrays/SumOfEven/obj/Debug/net7.0/SumOfEven.genruntimeconfig.cache
+/Users/aaaa/Projects/arrays/SumOfEven/obj/Debug/net7.0/ref/SumOfEven.dll

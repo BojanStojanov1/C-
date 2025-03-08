@@ -1,0 +1,15 @@
+/Users/aaaa/Projects/arrays/StudentGroup/bin/Debug/net7.0/StudentGroup
+/Users/aaaa/Projects/arrays/StudentGroup/bin/Debug/net7.0/StudentGroup.deps.json
+/Users/aaaa/Projects/arrays/StudentGroup/bin/Debug/net7.0/StudentGroup.runtimeconfig.json
+/Users/aaaa/Projects/arrays/StudentGroup/bin/Debug/net7.0/StudentGroup.dll
+/Users/aaaa/Projects/arrays/StudentGroup/bin/Debug/net7.0/StudentGroup.pdb
+/Users/aaaa/Projects/arrays/StudentGroup/obj/Debug/net7.0/StudentGroup.csproj.AssemblyReference.cache
+/Users/aaaa/Projects/arrays/StudentGroup/obj/Debug/net7.0/StudentGroup.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaaa/Projects/arrays/StudentGroup/obj/Debug/net7.0/StudentGroup.AssemblyInfoInputs.cache
+/Users/aaaa/Projects/arrays/StudentGroup/obj/Debug/net7.0/StudentGroup.AssemblyInfo.cs
+/Users/aaaa/Projects/arrays/StudentGroup/obj/Debug/net7.0/StudentGroup.csproj.CoreCompileInputs.cache
+/Users/aaaa/Projects/arrays/StudentGroup/obj/Debug/net7.0/StudentGroup.dll
+/Users/aaaa/Projects/arrays/StudentGroup/obj/Debug/net7.0/refint/StudentGroup.dll
+/Users/aaaa/Projects/arrays/StudentGroup/obj/Debug/net7.0/StudentGroup.pdb
+/Users/aaaa/Projects/arrays/StudentGroup/obj/Debug/net7.0/StudentGroup.genruntimeconfig.cache
+/Users/aaaa/Projects/arrays/StudentGroup/obj/Debug/net7.0/ref/StudentGroup.dll
